@@ -1,5 +1,5 @@
 # Verifiability-Granular
-This dataset was created by processing the data collected by [Liu et al](https://arxiv.org/abs/2304.09848). More details can be found in our ACL 2024 Findings [paper](), titled "Peering into the Mind of Language Models: An Approach for Attribution
+This dataset was created by processing the data collected by [Liu et al](https://arxiv.org/abs/2304.09848). More details can be found in our ACL 2024 Findings [paper](https://arxiv.org/abs/2405.17980), titled "Peering into the Mind of Language Models: An Approach for Attribution
 in Contextual Question Answering".
 
 ## Dataset
